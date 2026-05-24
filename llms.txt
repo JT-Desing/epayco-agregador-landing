@@ -1,0 +1,32 @@
+# ePayco Agregador
+
+> ePayco Agregador ayuda a negocios en Colombia a empezar a recibir pagos online con links de cobro, QR, botones y checkout.
+
+## Pagina principal
+
+- URL: https://jt-desing.github.io/epayco-agregador-landing/
+- Idioma: es-CO
+- Tipo de pagina: landing de producto
+- Audiencia: negocios que venden por WhatsApp, redes sociales, web, ecommerce, mostrador o clases online
+
+## Que resuelve
+
+ePayco Agregador permite activar cobros online sin montar una operacion compleja desde el inicio. La pagina explica rutas de cobro para negocios que necesitan vender por canales digitales, compartir links de pago, usar QR, botones o checkout.
+
+## Temas clave
+
+- Agregador de pagos online en Colombia
+- Links de cobro para WhatsApp y redes sociales
+- QR, checkout y botones de pago
+- Como empezar a cobrar online
+- Diferencia entre empezar con Agregador y evolucionar a Gateway
+
+## Secciones utiles
+
+- Inicio: propuesta de valor y CTA para crear cuenta.
+- Todo listo: beneficios de empezar a cobrar online.
+- Confianza: senales de claridad antes de avanzar.
+- Casos de uso: ejemplos de negocios que cobran por distintos canales.
+- Ecosistema ePayco: soluciones para cobrar, vender, operar y automatizar.
+- Decision: cuando empezar con Agregador y cuando evaluar Gateway.
+- FAQ: preguntas frecuentes sobre link de cobro, medios de pago, pagina web y confirmacion de pago.
